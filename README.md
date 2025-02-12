@@ -5,9 +5,9 @@ This project aims to help you grasp the fundamentals of WebSockets and implement
 When the server is started, it should listen for client connections on a specified port (which can be configured via command options or hardcoded for simplicity). Upon receiving a message from a connected client, the server should broadcast it to all other connected clients.
 
 - Start server using this command
-# node server.js
+- node server.js
 
 - Start client using this command
-# node client.js
+- node client.js
 
 This project will enhance your understanding of WebSockets and real-time communication between clients and servers. You can further extend it by incorporating features such as authentication, message history, and more.
