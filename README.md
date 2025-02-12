@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./src/assets/logo.png" alt="Logo" style="min-width: 100px; max-width: 500px; width: 50%;" />
+</p>
+
 # broadcast-server
 
 This project aims to help you grasp the fundamentals of WebSockets and implement real-time communication between clients and servers. It will provide insights into how real-time features in applications like chat systems, live scoreboards, and more function.
