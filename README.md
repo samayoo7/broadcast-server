@@ -7,7 +7,7 @@ When the server is started, it should listen for client connections on a specifi
 Start server using this command
 - node server.js
 
-- Start client using this command
+Start client using this command
 - node client.js
 
 This project will enhance your understanding of WebSockets and real-time communication between clients and servers. You can further extend it by incorporating features such as authentication, message history, and more.
