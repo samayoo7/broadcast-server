@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/assets/logo.png" alt="Logo" style="min-width: 100px; max-width: 500px; width: 40%; height: 200px;" />
+  <img src="./src/assets/logo.png" alt="Logo" style="min-width: 100px; max-width: 500px; width: 20%; height: 150px;" />
 </p>
 
 # broadcast-server
